@@ -8,3 +8,5 @@ Identifies missing skills from the job description that are absent in the resume
 Suggests improvements to optimize the resume for better alignment with the job posting.
 
 This tool helps job seekers quickly customize resumes for Applicant Tracking Systems (ATS) and hiring managers.
+dependencies:
+pip install streamlit google-generativeai PyPDF2 streamlit-option-menu python-dotenv
